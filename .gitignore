@@ -69,7 +69,3 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
-
-
-# yaml
-application.yml
